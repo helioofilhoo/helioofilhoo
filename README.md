@@ -38,9 +38,11 @@
 
 <p>
   <a href="https://www.linkedin.com/in/hélio-filho-7a447921b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
   </a>
+</p>
+<p>
   <a href="https://www.instagram.com/helioofilhoo_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/Instagram-6e00a8?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </p>
