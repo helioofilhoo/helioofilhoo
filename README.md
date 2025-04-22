@@ -41,6 +41,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn Badge" />
   </a>
   <a href="https://www.instagram.com/helioofilhoo_/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge" />
+    <img src="https://img.shields.io/badge/Instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
 </p>
