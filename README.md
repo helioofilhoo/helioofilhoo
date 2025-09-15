@@ -1,14 +1,14 @@
-<h1 align="center">Hi, I'm Hélio Filho 👽🧑🏻‍💻</h1>
+<h1 align="center">Olá, me chamo Hélio! 👽🧑🏻‍💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=IT+Student;Full-Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Estudante+de+TI;Desenvolvedor+Full-Stack;" alt="Typing SVG" />
 </p>
 
-- 🔨 Dedicated to building complete full-stack web applications  
-- 🧠 Currently an undergraduate student in Information Technology (BIT) at the Federal University of Rio Grande do Norte (UFRN)
-- 🎓 Graduated in Internet Computing (IFRN)
+- 🔨 dedicado a construir aplicações web full-stack completas  
+- 🧠 atualmente sou estudante de Bacharelado em Tecnologia da Informação (BTI) na Universidade Federal do Rio Grande do Norte (UFRN)  
+- 🎓 formado em Informática para Internet (IFRN)  
 
-### 🧰 core skills
+### 🧰 habilidades principais
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
@@ -21,7 +21,7 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="Tailwind CSS" />
 </p>
 
-### 🧪 also familiar with
+### 🧪 também familiarizado com
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </p>
 
-### 🔗 let's connect?
+### 🔗 contatos
 
 <p>
   <a href="https://www.linkedin.com/in/hélio-filho-7a447921b/" target="_blank">
