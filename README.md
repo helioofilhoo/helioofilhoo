@@ -34,6 +34,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
 </p>
 
+---
+
+## 📊 estatísticas 
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=helioofilhoo&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helioofilhoo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=helioofilhoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🐍 contribuições
+
+<p align="center">
+  <img src="https://github.com/helioofilhoo/helioofilhoo/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 🔗 contatos
 
 <p>
