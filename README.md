@@ -40,10 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=helioofilhoo&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=helioofilhoo&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
-
 ### 🐍 contribuições
 
 <p align="center">
