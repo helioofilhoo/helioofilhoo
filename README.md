@@ -1,6 +1,6 @@
 <h1>Olá, me chamo Hélio! 👋</h1>
 
-Sou desenvolvedor <b>Full-Stack</b> e atualmente estou focado em construir sistemas que resolvam problemas reais, com boa arquitetura e qualidade de código.
+Sou desenvolvedor <b>Full-Stack</b> e atualmente estou focado em construir sistemas que resolvam problemas reais.
 
 
 ### 💼 Sobre mim
