@@ -51,7 +51,7 @@ Sou desenvolvedor <b>Full-Stack</b> e atualmente estou focado em construir siste
 ### 💬 Entre em contato comigo
 
 <p>
-  <a href="https://www.linkedin.com/in/hélio-filho-7a447921b/" target="_blank">
+  <a href="https://www.linkedin.com/in/helioofilhoo" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/helioofilhoo_/" target="_blank">
