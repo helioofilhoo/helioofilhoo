@@ -51,7 +51,7 @@
 
 <p>
   <a href="https://www.linkedin.com/in/helioofilhoo/" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/helioofilhoo_" target="_blank" rel="noopener noreferrer">
     <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" alt="Instagram" />
