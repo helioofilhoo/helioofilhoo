@@ -50,10 +50,10 @@
 ### 🤝 Contate-me
 
 <p>
-  <a href="https://www.linkedin.com/in/helioofilhoo/" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" height="40" width="40" alt="LinkedIn" style="vertical-align: middle;" />
+  <a href="https://www.linkedin.com/in/helioofilhoo/" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; line-height: 0;">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" style="display: block;" />
   </a>
-  <a href="https://www.instagram.com/helioofilhoo_" target="_blank" rel="noopener noreferrer" style="text-decoration: none;">
-    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" width="40" alt="Instagram" style="vertical-align: middle;" />
+  <a href="https://www.instagram.com/helioofilhoo_" target="_blank" rel="noopener noreferrer" style="text-decoration: none; display: inline-block; line-height: 0;">
+    <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" height="40" width="40" alt="Instagram" style="display: block;" />
   </a>
 </p>
