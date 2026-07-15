@@ -11,7 +11,7 @@
   <li>🌐 Localização: Natal, RN.</li>
 </ul>
 
-### 💻 Tech Stack
+### 💻 Stack
 
 #### Front-end
 
